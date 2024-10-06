@@ -20,3 +20,21 @@ A simple interactive quiz built using HTML, CSS, and JavaScript.
 ## Repository:
 - GitHub: [ALX_Simple_Quiz](https://github.com/awolcoder/ALX_Simple_Quiz)
 
+# Simple Calculator
+
+## Description
+The Simple Calculator is a web application that performs basic arithmetic operations, including addition, subtraction, multiplication, and division. It provides a user-friendly interface for inputting two numbers and selecting an operation to see the result.
+
+## Features
+- Performs addition, subtraction, multiplication, and division.
+- Input validation to handle empty fields and non-numeric values.
+- Displays results dynamically on the webpage.
+- Handles division by zero with an appropriate message.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+
+
