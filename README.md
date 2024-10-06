@@ -17,8 +17,6 @@ A simple interactive quiz built using HTML, CSS, and JavaScript.
 - `styles.css`: Contains the styling for the quiz (CSS).
 - `quiz.js`: Contains the logic for checking answers and displaying feedback (JavaScript).
 
-## Repository:
-- GitHub: [ALX_Simple_Quiz](https://github.com/awolcoder/ALX_Simple_Quiz)
 
 # Simple Calculator
 
@@ -36,5 +34,6 @@ The Simple Calculator is a web application that performs basic arithmetic operat
 - CSS
 - JavaScript
 
-
+## Repository:
+- GitHub: [ALX_Simple_Quiz](https://github.com/awolcoder/ALX_Simple_Quiz)
 
